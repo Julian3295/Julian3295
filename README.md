@@ -18,7 +18,6 @@
 
 - :technologist: **Desarrollador de Software** enfocado en la creación de soluciones eficientes y automatización de procesos.
 - :rocket: Experiencia práctica en **desarrollo web, integración de APIs y gestión de datos**, aportando valor mediante código limpio y mantenible.
-- :wrench: Especialista en optimización operativa usando herramientas como **Make, Monday.com y formularios digitales**.
 - :computer: Dominio técnico en **Java, Python, React.js y bases de datos (MySQL)**.
 - :bulb: Me apasiona transformar requerimientos de negocio en experiencias digitales funcionales y de alto impacto.
 - :handshake: Actualmente en búsqueda de retos como **Desarrollador Junior Full Stack** o **Asistente de Sistemas**.
@@ -58,15 +57,4 @@
   <a href="https://www.mysql.com/" target="_blank"> <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white"> </a>
   &emsp;
   <a href="https://git-scm.com/" target="_blank"> <img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"> </a>
-</p>
-
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Herramientas de Automatización
-
-<p align="center">
-  &emsp;
-  <a href="#"><img alt="Make" src="https://img.shields.io/badge/Make-%23FFFFFF.svg?style=plastic&logo=make&logoColor=black"></a>
-  &emsp;
-  <a href="#"><img alt="Monday.com" src="https://img.shields.io/badge/Monday.com-%230073ea.svg?style=plastic&logo=monday.com&logoColor=white"></a>
-  &emsp;
-  <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
 </p>
